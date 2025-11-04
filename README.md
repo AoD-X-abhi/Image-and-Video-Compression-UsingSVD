@@ -29,7 +29,7 @@ Both scripts are **educational**, **lightweight**, and **well-commented**.
 SVD decomposes an image matrix into three matrices — **U**, **S**, and **V** — such that:
 
 \[
-A = U \cdot S \cdot V^T
+A = U S V^T
 \]
 
 By keeping only the top **k** singular values, we can reconstruct a compressed version of the image that retains most of its important visual information while reducing storage requirements.
