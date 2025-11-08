@@ -1,8 +1,8 @@
 <div align="center">
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2023a%2B-orange.svg?logo=mathworks)](https://www.mathworks.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)]()
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023a%2B-orange.svg?logo=mathworks)(https://www.mathworks.com/)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(LICENSE)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)()
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)()
 </div>
 
 
