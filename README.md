@@ -63,13 +63,18 @@ By keeping only the top **k** singular values, we can reconstruct a compressed v
   
 ![Original and Compressed](Results/ImageResult.png)
 
+
+
 - **_Figure 2: Singular Values (log scale)_**
   
 ![Singular Values](Results/SingularValuesPlot.png)
 
+
+
 - **_Figure 3: Energy Retained Results\Image Result.pngvs. Number of Singular Values_**
   
 ![Energy Retained](Results/EnergyRetained.png)
+
 
 ---
 
