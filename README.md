@@ -59,11 +59,16 @@ By keeping only the top **k** singular values, we can reconstruct a compressed v
 - Energy distribution and cumulative energy plots
 
 ### 🖼️ Sample Visualization
-- Figure 1: Original vs. Compressed Images  
+- **_Figure 1: Original vs. Compressed Images_**
+  
 ![Original and Compressed](Results/ImageResult.png)
-- Figure 2: Singular Values (log scale)  
+
+- **Figure 2: Singular Values (log scale)**
+  
 ![Singular Values](Results/SingularValuesPlot.png)
-- Figure 3: Energy Retained Results\Image Result.pngvs. Number of Singular Values  
+
+- **Figure 3: Energy Retained Results\Image Result.pngvs. Number of Singular Values**
+  
 ![Energy Retained](Results/EnergyRetained.png)
 
 ---
